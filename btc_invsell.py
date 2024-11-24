@@ -1,10 +1,10 @@
 # 初始参数
 initial_investment = 1000  # 投资金额（美元）
-btc_initial_price = 60000  # 初始BTC价格（假设为30000美元）
+btc_initial_price = 60000  # 初始BTC价格（假设为60000美元）
 btc_quantity = initial_investment / btc_initial_price  # 初始持有的BTC数量
 
 # 减仓设置
-sell_intervals = 20  # 分成5次减仓
+sell_intervals= 5  # 分成5次减仓
 price_increase_rate = 0.1  # 每次减仓价格上涨10%
 sell_ratio = 1 / sell_intervals  # 每次减仓的比例
 
