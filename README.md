@@ -7,3 +7,9 @@ invsell 模型解决在市场高点减持过少或市场低点减持过多的问
 
 使用方法：
     在代码中更改参数运行
+
+## Buy Me a Coffee
+ETH: 0xa270fac76b8d66ad238fd3eb4ebe1cd4f06ce13a
+SOL: 3QRAqNFv7uv6g1BCjZg75y423y8ZEdM37gS3NXk9fDcH
+TON: UQDUvtZrsPmTHlo4PzvECkyb7tqaUljw4f6SgRwE2rU2UtTZ
+TRX: TLJs9n2zzqxBy7cJ8PHBKbw7tVD8ynP8Ut
